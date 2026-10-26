@@ -8,6 +8,8 @@
 public class Main
 {
     public static void main(){
+        int x = 5;
+        String nombre = "Juan";
     
     }
 }
